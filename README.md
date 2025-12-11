@@ -4,6 +4,8 @@ A high-performance crypto market scanner that analyzes multiple Binance Spot tra
 
 This project is built for traders who need fast, rule-based, automated signal detection across many coins in parallel.
 
+<img width="1230" height="967" alt="Image" src="https://github.com/user-attachments/assets/fec7a278-2b5b-4346-967f-251fe061fe84" />
+
 # Features
 ## 1. Multi-Coin Scanning System
 
