@@ -1,4 +1,4 @@
-# Binance Spot Multi-Coin Supertrend Scanner
+# Binance Spot Multi-Coin Supertrend Signal
 
 A high-performance crypto market scanner that analyzes multiple Binance Spot trading pairs using Supertrend, EMA-based smoothing, and multi-timeframe confirmation. The bot generates real-time Buy Signals and sends alerts directly to Telegram.
 
